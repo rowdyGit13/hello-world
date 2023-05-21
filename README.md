@@ -1,5 +1,5 @@
 # hello-world
-starting of GitHub with a simple code
+starting off GitHub with a simple code
 
 ## About me
 My goals in getting starting off in GitHub are three-fold
